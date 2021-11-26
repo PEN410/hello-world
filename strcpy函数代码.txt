@@ -7,5 +7,9 @@ char* my_strcpy(char*dest,const char*src)
 	*dest = *src;//结束加上'\0';
 	return ret;
 }
+<<<<<<< HEAD
 
 /bendi/
+=======
+/yuancheng/
+>>>>>>> 5d23431dd257c768482fa5fcd6aa72186f3419ff
